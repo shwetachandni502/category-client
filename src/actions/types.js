@@ -1,0 +1,3 @@
+export const IS_LOADING = "IS_LOADING";
+export const ALL_CATEGORY = "ALL_CATEGORY";
+export const CURRENT_CATEGORY = "CURRENT_CURRENT";
